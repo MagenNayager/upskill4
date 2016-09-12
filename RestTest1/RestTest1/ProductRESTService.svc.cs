@@ -14,6 +14,7 @@ namespace RestTest1
         public List<Product> GetProductList()
         {
             // added a comment
+            //added a comment for 4th commit
             return Products.Instance.ProductList;
         }
     }
