@@ -13,6 +13,7 @@ namespace RestTest1
     {
         public List<Product> GetProductList()
         {
+            // added a comment
             return Products.Instance.ProductList;
         }
     }
